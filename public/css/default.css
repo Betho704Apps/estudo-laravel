@@ -1,0 +1,8 @@
+.footer_default{
+    width: 100%;
+    height: 50px;
+    margin: auto;
+    bottom: 0;
+    background-color: red;
+    color: blue;
+    }
